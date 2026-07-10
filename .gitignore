@@ -5,6 +5,7 @@ __pycache__/
 .vscode/
 slide/
 thuật toán (chi)/
+*.json
 .agents/
 
 # C extensions
