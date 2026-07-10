@@ -3,10 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 .vscode/
-.slide/
-.thuật toán (chi)/
+slide/
+thuật toán (chi)/
 .agents/
-*.md
 
 # C extensions
 *.so
