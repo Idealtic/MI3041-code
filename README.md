@@ -1,7 +1,7 @@
 # MI3041 - Numerical Analysis (Giải tích số)
 
 > [!NOTE]
-> Dự án đã hoàn thiện sau khi kết thúc học phần, hiện đã mở công khai (trước đây là `GTS private`).  
+> Dự án đã hoàn thiện sau khi kết thúc học phần, hiện đã mở công khai (trước đây là `GTS-private`).  
 
 ## Giới thiệu
 
