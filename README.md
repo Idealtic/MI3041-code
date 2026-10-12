@@ -1,20 +1,16 @@
 # MI3041 - Numerical Analysis (Giải tích số)
 
-## Vietnamese
-Đây là bản update từ code gốc của K1m1nonawa4869 (Vũ Quang Vinh) với một số thay đổi:
-- Thay đổi một số chỗ từ tiếng Anh sang tiếng Việt.
-- Hoàn thiện một số phần lý thuyết còn thiếu hoặc chưa rõ ràng.
-- Sắp xếp lại cấu trúc một số đề mục.
+> [!NOTE]
+> Dự án đã hoàn thiện sau khi kết thúc học phần, hiện đã mở công khai (trước đây là `GTS private`).  
 
-Update 12/10/2026: Đây là bản đã hoàn thiện sau khi kết thúc học phần. Hiện đã được công khai và đổi tên từ GTS private -> MI3041 code.
+## Overview / Giới thiệu
 
-## English
-This is an updated version of the original code of K1m1nonawa4869 (Vũ Quang Vinh) with some changes:
-- Changed from English to Vietnamese in some parts.
-- Some missing or unclear theoretical sections have been completed.
-- Restructured some sections.
+Bản cập nhật từ source code gốc của [@K1m1nonawa4869](https://github.com/K1m1nonawa4869) (Vũ Quang Vinh).
 
-Update 12/10/2026: This is the completed version after the course ended. This has been made public and renamed from GTS private -> MI3041 code.
+### Các thay đổi chính:
+- Việt hóa một số nội dung/chú thích từ tiếng Anh sang tiếng Việt.
+- Bổ sung và hoàn thiện các phần lý thuyết còn thiếu hoặc chưa rõ ràng.
+- Sắp xếp lại hệ thống đề mục cho mạch lạc hơn.
 
 ## Original readme
 
