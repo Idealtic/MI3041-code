@@ -6,7 +6,7 @@
 - Hoàn thiện một số phần lý thuyết còn thiếu hoặc chưa rõ ràng.
 - Sắp xếp lại cấu trúc một số đề mục.
 
-Update 12/10/2026: Đây là bản đã hoàn thiện sau khi kết thúc học phần. Hiện đã được công khai. 
+Update 12/10/2026: Đây là bản đã hoàn thiện sau khi kết thúc học phần. Hiện đã được công khai và đổi tên từ GTS private -> MI3041 code.
 
 ## English
 This is an updated version of the original code of K1m1nonawa4869 (Vũ Quang Vinh) with some changes:
@@ -14,7 +14,7 @@ This is an updated version of the original code of K1m1nonawa4869 (Vũ Quang Vin
 - Some missing or unclear theoretical sections have been completed.
 - Restructured some sections.
 
-Update 12/10/2026: This is the completed version after the course ended. This has been made public.
+Update 12/10/2026: This is the completed version after the course ended. This has been made public and renamed from GTS private -> MI3041 code.
 
 ## Original readme
 
